@@ -1,0 +1,33 @@
+var details=
+{
+    "basics" : [
+        {
+            "Name":"Hariharan",
+            "Email":"hariharan.mct@gmail.com",
+            "phone": 9944844219,
+        }
+    ],
+    "Edutation" : [
+        {
+            "Max-degree":"B.E",
+            "Current":"Full Stack Developer learning",
+        }
+    ],
+    "skils":[
+        {
+            "knowledge ":["javascript","HTML","CSS","Bootstrap","DOM"]
+        }
+    ],
+    "Language":[
+        {
+           "Lan": ["Tamil","English","Sourashtra"]
+            
+        }
+    ],
+    "Intrest":[
+        {
+            "int":["Music","Director"]
+        }
+        
+    ]
+}
